@@ -1,0 +1,7 @@
+document_id,kind,label,value
+4a4b636f-4ab6-41a4-88cc-8150e0218975,medication,Metoprolol,100mg BD
+4a4b636f-4ab6-41a4-88cc-8150e0218975,medication,Dorzolamide,10mg BD
+4a4b636f-4ab6-41a4-88cc-8150e0218975,medication,Cimetidine,50mg TDS
+4a4b636f-4ab6-41a4-88cc-8150e0218975,medication,Oxprenolol,50mg OD
+4a4b636f-4ab6-41a4-88cc-8150e0218975,demographic,age,34
+4a4b636f-4ab6-41a4-88cc-8150e0218975,date,issue_date,2012-11-09

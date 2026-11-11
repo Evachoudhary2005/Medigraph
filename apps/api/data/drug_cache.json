@@ -1,0 +1,32 @@
+{
+  "dorzolamidum": {
+    "generic": "Dorzolamide",
+    "class": "drug",
+    "confidence": 0.8
+  },
+  "oxprenolol": {
+    "generic": "Oxprenolol",
+    "class": "drug",
+    "confidence": 0.9
+  },
+  "vexidsp": {
+    "generic": "Dexmedetomidine",
+    "class": "Anesthetic",
+    "confidence": 0.9
+  },
+  "paracetamol": {
+    "generic": "Paracetamol",
+    "class": "Drug",
+    "confidence": 0.95
+  },
+  "cetirizine": {
+    "generic": "Cetirizine",
+    "class": "Drug",
+    "confidence": 0.95
+  },
+  "pantoprazole": {
+    "generic": "Pantoprazole",
+    "class": "Drug",
+    "confidence": 0.95
+  }
+}
